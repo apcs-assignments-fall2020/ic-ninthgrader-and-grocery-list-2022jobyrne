@@ -1,4 +1,4 @@
-//jen obyrne
+//jen obyrne code
 import java.util.Arrays;
 public class GroceryList {
     private String[] arr;
